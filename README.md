@@ -1,4 +1,4 @@
-Redmine LDAP Sync [![Build Status](https://travis-ci.org/thorin/redmine_ldap_sync.svg?branch=master)](https://travis-ci.org/thorin/redmine_ldap_sync) [![Coverage Status](https://coveralls.io/repos/thorin/redmine_ldap_sync/badge.svg?branch=master)](https://coveralls.io/r/thorin/redmine_ldap_sync?branch=master) [![Maintainability](https://api.codeclimate.com/v1/badges/9b36898853d5141eb70e/maintainability.svg)](https://codeclimate.com/github/thorin/redmine_ldap_sync/maintainability)
+Redmine LDAP Sync [![Build Status](https://travis-ci.org/hkericb/redmine_ldap_sync.svg?branch=master)](https://travis-ci.org/hkericb/redmine_ldap_sync) [![Coverage Status](https://coveralls.io/repos/hkericb/redmine_ldap_sync/badge.svg?branch=master)](https://coveralls.io/r/hkericb/redmine_ldap_sync?branch=master) [![Maintainability](https://api.codeclimate.com/v1/badges/9b36898853d5141eb70e/maintainability.svg)](https://codeclimate.com/github/hkericb/redmine_ldap_sync/maintainability)
 =================
 
 This redmine plugin extends the ldap authentication with user/group
@@ -33,7 +33,7 @@ Installation & Upgrade
    If you are downloading the plugin directly from GitHub, you can do so by
    changing into the `#{RAILS_ROOT}/plugins` directory and issuing the command:
    ```
-   git clone git://github.com/thorin/redmine_ldap_sync.git
+   git clone git://github.com/hkericb/redmine_ldap_sync.git
    ```
 
    **upgrade** - Backup and replace the old plugin directory with the new
